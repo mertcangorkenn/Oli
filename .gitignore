@@ -46,3 +46,4 @@ app.*.map.json
 
 
 GoogleService-Info.plistios/
+ios/GoogleService-Info.plist
